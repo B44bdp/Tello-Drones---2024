@@ -60,8 +60,23 @@ try:
         sendmsg('command', 0)
         sendmsg('takeoff')
 
-        sendmsg('up 65', 10)
-        sendmsg('forward 500', 10)
+        #sendmsg('up 65', 10)
+        #sendmsg('forward 500', 10)
+
+        # Square - Pilot = Logan Taylor - CoPilot = Ethan Mingerink
+        for i in range(4):
+           sendmsg('forward 50', 3)
+           sendmsg('cw 90', 3)
+
+
+
+
+        # Triangle - Pilot = Logan Taylor - CoPilot = Ethan Mingerink
+
+
+        # Circle - Pilot = Ethan Mingerink - CoPilot = Logan Taylor
+
+
 
 
 
