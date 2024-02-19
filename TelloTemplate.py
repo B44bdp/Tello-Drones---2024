@@ -79,7 +79,8 @@ try:
 
         # Circle - Pilot = Logan Taylor - CoPilot = Ethan Mingerink
 
-
+        sendmsg('curve 100 0 100 100 0 0 50')
+        sendmsg('curve 100 0 100 100 0 0 50')
 
 
         sendmsg('land')
