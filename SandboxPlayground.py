@@ -71,13 +71,14 @@ try:
 
 
 
-        # Triangle - Pilot = Ethan Mingerink - CoPilot = Logan Taylor
+        # Triangle - Pilot = Logan Taylor - CoPilot = Ethan Mingerink
 
-        #for i in range(3):
-            #sendmsg('forward 50',6)
-            #sendmsg('cw 135', 6)
+        for i in range(3):
+            sendmsg('forward 50',7)
+            sendmsg('cw 135', 6)
 
-        # Circle - Pilot = Logan Taylor - CoPilot = Ethan Mingerink
+        # Circle - Pilot = Ethan Mingerink - CoPilot = Logan Taylor
+
 
 
 
